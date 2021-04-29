@@ -1,6 +1,9 @@
 Name:Aninda Sadman
 ID:18101617
-Completed:
+For doing the assignments of these courses, I have used the following two github repositories:
+https://github.com/Arc-tic-Wolf/AI
+https://github.com/Arc-tic-Wolf/Datas
+Completed Courses:
 AI for everyone-deeplearning.ai
 Google IT Automation Professional Certificate-Specialization 6 courses
 Data Analysis with Python-IBM
