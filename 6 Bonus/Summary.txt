@@ -1,0 +1,8 @@
+AI for everyone-deeplearning.ai
+Google IT Automation Professional Certificate-Specialization 6 courses
+Data Analysis with Python-IBM
+Machine Learning with Python-IBM
+Neural Networks and Deep Learning-deeplearning.ai
+Introduction to Tensorflow for Artificial Intelligence,Machine Learning and Deep Learning-deeplearning.ai
+Improving Deep Neural Networks:Hyperparameter tuning,Regularization and Optimization-deeplearning.ai
+Structuring Machine Learning Projects-deeplearning.ai
